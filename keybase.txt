@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/obw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://offbeatwit.ch
+  * I am obw (https://keybase.io/obw) on keybase.
+  * I have a public key with fingerprint 4D9B 8B56 6092 6CFE 4277  9DF4 2C67 FC95 621D E799
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101814f805a4d9d4de8ae60cf53398852d91cb1b23fc87ba6947d437b5cc46eadda0a",
+            "fingerprint": "4d9b8b5660926cfe42779df42c67fc95621de799",
+            "host": "keybase.io",
+            "key_id": "2c67fc95621de799",
+            "kid": "0101814f805a4d9d4de8ae60cf53398852d91cb1b23fc87ba6947d437b5cc46eadda0a",
+            "uid": "c40776200d11bcbd6b2a73ea36bf0119",
+            "username": "obw"
+        },
+        "revoke": {
+            "sig_ids": [
+                "8b2b1a79ec90e0b8aeeb5b3121ba12845de71d1a9b5d9228c85758665540dffb0f"
+            ]
+        },
+        "service": {
+            "hostname": "offbeatwit.ch",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1476808873,
+    "expire_in": 157680000,
+    "prev": "61fe9b3efe2f2f9c6642b5548e5cb5fac6c5ff8bcf1eae04a6835075d0996967",
+    "seqno": 28,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMJqAnicrZJvaFZVHMefR+thDhzLF0kFVgchiDHPOfeec895DIQIelEOK1rqpg/n
+77PL1r3P7r3P1v7I+geBxlpifwg0JGsGkUibU0rJcmJkBJkaZPNNzVYUDbWQFXbu
+yHe99L653HO+v8/vc373nFi+tNBYvPR31H5InZ4vfnn8j3phY2nD+0NAxnoAlIdA
+t1l8mR5t0qzSHWpQBhBBxJBvGSTC11z72jBhKFSWeB5njGDNkZJIYs8qFkhBuR9o
+3wskUcqnRmgtoAAtwIZR1SS1JIwyh3UoySShFHJMlTU+DgKurY8VDazihGKkTcC5
+K+yK07zCyUmRmtYwdmvuo7Ko9z/5m+xdX8QpHwYBxRBqhKSSmkosAs8Ij0oLEcr7
+1lOTROJp49Kx7AfbWkBi+uJuk480DavONwXlDsAklkgE3CgODZROykgiPYSRFAgz
+n7hzII0El0RzjJliJCCMUkJ8qK2V0IItju2a9YVqEZ4P6EZjFzAi6w+zVtXlnGpJ
+nMUq7nFbXVlWS8u5VjZQy7P9Rlb+o1RkGGn3f1xFn0nSMI5AGbmkysIci/yAMshY
+4LUA80wtTEwlzBMkX3ZP3sf0OSRF1nDpGWuwxZYrSn0snTgzRElihaKKWMukssgI
+A31BmUdgQDTknHIagPxcvVEMypg5T1F1TDe6SGT1xIBtn33aeUuh2Fgo3bokv7iF
+xmXNN67zmf0Nhee/PmyqU7+tPPTAQzMbz06/sEf+9PbONllsW7Zu7u4LnZvOTrS+
+Ux7a9ddRr7ry8rvJjrG55vmdHz+1e0pMrlk4NXpx6kzvvT31K/8MvPLi1tFLH0xc
+W793Q+cTojQ2vslva1pxclVsn7tj+cJX5tcd/u9HLb7/4Pf3TUelt5onw9lHt19c
+33Hsz9s5efWNEz98CM+1r/12sGFEffTw49dW7xk6MHL12SXhbjjLtrdfvz7Z1HHh
+QTQ4zobHlt7VPjN16squ8dKBsffSJx/BE1fXXV61cNvqrb3FY4+dzvZ9Y/YNZnfO
+nLTfzc1Pf7H5yOc/r339PPqxYcXLw4PJ8N7Z1+5585PRkV9eajze9C/Z1GQR
+=ZWU5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/obw
+
+==================================================================
