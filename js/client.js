@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
 	var parent = document.getElementById("blog");
 
 	var req = new XMLHttpRequest();
-	req.open("GET", "http://garden.offbeatwit.ch/blog");
+	req.open("GET", "//garden.offbeatwit.ch/blog");
 
 	req.addEventListener("load", function(e) {
 		var data = JSON.parse(req.response);
