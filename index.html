@@ -1,65 +1,44 @@
 <!DOCTYPE html>
 <head>
-	<title>obw's lair</title>
-	<script src="js/client.js"></script>
+	<title>obw</title>
 	<link rel="stylesheet" href="//cdn.witch.gq/css/normalize.min.css"/>
-	<link rel="stylesheet" href="//cdn.witch.gq/css/skeleton.css"/>
-	<link href="//fonts.googleapis.com/css?family=Montserrat|Raleway" rel="stylesheet">
-	<style>
-	a {
-		color: #10aded;
-		text-decoration: none;
-	}
-
-	hr {
-		margin: 5px 0 !important;
-	}
-
-	h1, h2, h3 {
-		font-family: 'Montserrat', sans-serif;
-		font-weight: 400;
-	}
-
-	body {
-		background: #111;
-		color: #fff;
-	}
-
-	.container {
-		margin-top: 20px;
-	}
-
-	.row img {
-		width: 128px;
-		height: 128px;
-	}
-
-	.row .left-side {
-		text-align: right;
-	}
-
-	p {
-		font-size: 16px;
-	}
-	</style>
+	<link rel="stylesheet" href="/css/style.css"/>
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel="shortcut icon" href="//cdn.witch.gq/img/obw-16.png"/>
 </head>
 <body>
 	<div class="container">
-		<div class="row">
-			<div class="four columns left-side">
-				<img src="//cdn.witch.gq/img/obw-nobg.png" />
-				<h3>obw's lair</h3>
-				<hr>
-				<p>hi, I'm obw, also known as <a href="http://twitter.com/offbeatwitch">offbeatwitch</a>.
-					sometimes I write things, like <a href="http://neko.offbeatwit.ch">discord bots</a> or <a href="http://github.com/hedgehog1029/Frame">bukkit plugins</a>.
-					you can find me on <a href="https://discord.gg/eRe4Uqg">my discord</a>.
-					<br/><br/>
-					<a href="http://github.com/hedgehog1029">github</a><br/>
-					<a href="http://keybase.io/obw">keybase</a>
-				</p>
+		<img id="avatar" src="//cdn.witch.gq/img/obw-nobg.png"></img>
+		<h1>obw</h1>
+		<small class="meta">off-beat-witch: noun, a witch that is off-beat</small>
+		<div class="social">
+			<a href="https://twitter.com/offbeatwitch"><i class="fa fa-twitter"></i></a>
+			<a href="https://github.com/hedgehog1029"><i class="fa fa-github"></i></a>
+			<a href="https://keybase.io/obw"><i class="fa fa-key"></i></a>
+			<a href="https://discord.gg/eRe4Uqg"><i class="fa fa-comments"></i></a>
+		</div>
+		<p class="text">
+			hi, I'm <a href="https://twitter.com/offbeatwitch">@offbeatwitch</a>, or obw for short.<br/>
+			I write things by hitting keyboards repeatedly, usually successfully.<br/>
+			here's some things I've done and groups I'm in
+		</p>
+		<div class="projects">
+			<div class="project">
+				<h3><a href="https://garden.offbeatwit.ch">garden</a></h3>
+				<small>I do weird web experiments here</small>
 			</div>
-			<div class="eight columns">
-				<div id="blog"></div>
+			<div class="project">
+				<h3><a href="https://genprog.gq">genprog</a></h3>
+				<small>my second home</small>
+			</div>
+			<div class="project">
+				<h3><a href="http://sunglasses.offbeatwit.ch">sunglasses</a></h3>
+				<small>that bot with the sunglasses</small>
+			</div>
+			<div class="project">
+				<h3><a href="https://landfall.se">landfall</a></h3>
+				<small>trivia: I'm one of landfall's trusted 56</small>
 			</div>
 		</div>
 	</div>
