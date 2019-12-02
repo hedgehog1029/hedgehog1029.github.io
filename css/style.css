@@ -71,3 +71,12 @@ a:hover {
 .projects .project img {
     width: 100%;
 }
+
+.footer {
+    margin: 20px 0;
+}
+
+.footer img {
+    width: 150px;
+    display: inline;
+}
