@@ -36,6 +36,12 @@ small.meta {
     color: #444;
 }
 
+.social svg.icon {
+    width: 35px;
+    height: 35px;
+    margin-bottom: -6px;
+}
+
 a, a:visited, a:hover {
     text-decoration: none;
     color: #10aded;
